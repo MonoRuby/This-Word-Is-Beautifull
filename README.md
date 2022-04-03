@@ -6,7 +6,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio_tsj/)
 
-![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=blaackcyberr&show_icons=true&theme=radical)
+![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=BlaackCyberr&show_icons=true&theme=radical)
 
 ## Tecnologia Que Uso Todos Os Dias!
 
