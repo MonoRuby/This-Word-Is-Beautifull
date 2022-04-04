@@ -1,4 +1,4 @@
-## Ola eu sou Matheus Silva, Dev em programação e tecnologia! I LIKE THIS WORLD🌍 
+## Hello I'm Matheus Silva, Dev in programming and technology! I LIKE THIS WORLD🌍
 <div align="center">
   <a href="https://github.com/MonoRuby">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonoRuby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonoRuby&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## E aqui está minhas ambições, espero muito poder Aprender tudo🗽
+## And here are my ambitions, I really hope I can learn everything🗽
 <div style="display: inline_block">
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,7 +20,7 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   
-  ## Minhas Redes sociais🧭
+  ## My Social Media🧭
   <a href="https://youtube.com/c/ENORMITYHACKING706" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mithril_mbl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "Matheussilva706@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
